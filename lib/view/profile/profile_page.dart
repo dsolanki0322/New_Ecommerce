@@ -18,7 +18,6 @@ class ProfileScreen extends StatelessWidget {
         builder: (_) {
           return Scaffold(
             appBar: AppBar(
-
               centerTitle: false,
               iconTheme: IconThemeData(
                 color: Colors.black, // <-- SEE HERE
